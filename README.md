@@ -14,8 +14,8 @@ Estou constantemente atualizando meus conhecimentos e buscando novos desafios na
 #
 
 ## 🎧 Unauthorized banger detected! 
-[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=fsvpgvqb8pmhgy0skpmv99pl6&cover_image=true&theme=novatorem&show_offline=true&background_color=121212&interchange=false&bar_color=1db954&bar_color_cover=true)](https://spotify-github-profile.kittinanx.com/api/view?uid=fsvpgvqb8pmhgy0skpmv99pl6&redirect=true)
-
+[![spotify-github-profile](https://spotify-github-profile.kenmahtttp.com/api/view?uid=31qugadz6c7p6yjy6wykyn4mtski&cover_image=true&theme=spotify-embed&show_offline=false&background_color=121212&interchange=true&profanity=false&bar_color=53b14f&bar_color_cover=true&mode=dark)](https://spotify-github-profile.kittinanx.com/api/view?uid=31qugadz6c7p6yjy6wykyn4mtski&redirect=true)
+---
 <img align="right" alt="" height="190px" src="./src/killua-hunter-x-hunter.gif">
 
 <h3 align="left">Connect with me!</h3>
