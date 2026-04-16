@@ -13,7 +13,7 @@ Estou constantemente atualizando meus conhecimentos e buscando novos desafios na
   
 #
 
-<img align="right" alt="" height="190px" src="./src/bleach-histugaya-toshiro (1).gif">
+<img align="right" alt="" height="190px" src="./src/bleach-histugaya-toshiro.gif">
 
 <h3 align="left">Connect with me!</h3>
 
