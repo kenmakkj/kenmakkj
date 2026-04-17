@@ -16,7 +16,7 @@
 [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31qugadz6c7p6yjy6wykyn4mtski&cover_image=true&theme=spotify-embed&show_offline=false&background_color=121212&interchange=true&profanity=false&bar_color=53b14f&bar_color_cover=true&mode=dark)](https://spotify-github-profile.kittinanx.com/api/view?uid=31qugadz6c7p6yjy6wykyn4mtski&redirect=true)
 ---
 
-<img align="right" alt="" height="190px" src="./src/killua-hunter-x-hunter.gif">
+<img align="right" alt="" height="190px" src="./src/Howls.gif">
 
 <h3 align="left">Connect with me!</h3>
 
